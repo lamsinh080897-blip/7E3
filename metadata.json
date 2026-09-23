@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Tuần Hoàn Quest",
+  "description": "Chuyến phiêu lưu trong Bảng tuần hoàn - Game giáo dục KHTN 7 khám phá hạt nguyên tử, chu kì, nhóm và ứng dụng thực tế",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
